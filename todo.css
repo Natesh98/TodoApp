@@ -1,0 +1,75 @@
+
+*{
+
+    margin: 0;
+    padding: 0%;
+    background-color: green;
+}
+
+
+input{
+
+    font-family: Arial, Helvetica, sans-serif;
+        
+    
+}
+
+header > section{
+    margin-top: 50px;
+    width: 100%;
+    min-height: 100vh;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    margin-bottom: 40px;
+ 
+ 
+
+}
+
+
+
+#todo-input {
+
+    font-size: 24px;
+    padding: 12px 24x;
+    margin-right: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    outline: none;
+   
+  
+   
+ 
+
+    
+   
+}
+
+
+button{
+
+    font-size: 16px;
+    padding: 12px ;
+    margin-right: 36px;
+    margin-top: 24px;
+    border-radius: 16px;
+    background: black;
+    color: white;
+  
+}
+
+ #todo-list li{
+
+    width: 30%;
+    height: 25px;
+    font-size: 16px;
+    padding: 12px ;
+    margin-top: 15px;
+    border-radius: 16px;
+    background: maroon;
+    margin-left: 32%;
+    color: mediumturquoise;
+}
+
